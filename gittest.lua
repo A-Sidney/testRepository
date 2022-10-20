@@ -12,4 +12,4 @@ end
 count(counter)
 print("Counter: ".. counter)
 print("Array: "..table.concat(arr, ", "))
-print("I changed something")
+print("I changed something  ")
